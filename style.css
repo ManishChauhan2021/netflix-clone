@@ -1,16 +1,16 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-main {
+.main {
     background-image: url("assets/bg.jpg.jpg");
-    height: 80vh;
+    height: 100vh;
 }
 
-main.box{
-    height: 80vh;
+.main .box{
+    height: 100vh;
     width: 100%;
-    opacity: 0.2;
+    opacity: 0.50;
     background-color: black;
 }
